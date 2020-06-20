@@ -1,0 +1,1 @@
+protoc --micro_out=. --go_out=. hello.proto
